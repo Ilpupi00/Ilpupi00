@@ -8,7 +8,7 @@
 
 ## Cosa faccio
 
-- �� Insegno e condivido la mia passione per l'educazione
+- 📚 Insegno e condivido la mia passione per l'educazione
 - 💡 Esploro nuove tecnologie e metodologie di sviluppo software
 - 🔬 Approfondisco le mie competenze in informatica attraverso studi accademici
 - 🌱 Credo nell'apprendimento continuo e nella crescita professionale
